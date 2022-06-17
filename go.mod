@@ -1,3 +1,3 @@
-module github.com/nqmt/gotime/v2
+module github.com/nqmt/gotime
 
-go 1.13
+go 1.18
